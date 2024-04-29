@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon payment.js",
+    "serv": "nodemon payment.js",
+    "start": "node payment.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
